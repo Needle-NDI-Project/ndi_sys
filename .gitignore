@@ -1,0 +1,7 @@
+# Ignore all the files in .vscode
+**/.vscode/
+
+# Ignore all the files in build, install, and log directories
+**/build/
+**/install/
+**/log/

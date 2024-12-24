@@ -1,0 +1,9 @@
+<library path="ndi_controllers">
+    <class name="ndi_controllers/NdiPoseBroadcaster"
+        type="ndi_controllers::NdiPoseBroadcaster"
+        base_class_type="controller_interface::ControllerInterface">
+        <description>
+            Broadcasts NDI tracker poses as ROS messages
+        </description>
+    </class>
+</library>

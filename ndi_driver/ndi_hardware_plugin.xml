@@ -1,0 +1,9 @@
+<library path="ndi_driver">
+    <class name="ndi_driver/NdiDriver"
+        type="ndi_driver::NdiDriver"
+        base_class_type="hardware_interface::SensorInterface">
+        <description>
+            ROS2 hardware interface driver for NDI tracking systems
+        </description>
+    </class>
+</library>

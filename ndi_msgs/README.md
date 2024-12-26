@@ -130,7 +130,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 
     ```bash
     cd ~/ros2_ws/src
-    git clone https://github.com/your-repo/ndi_msgs.git
+    git clone https://github.com/Needle-NDI-Project/ndi_sys.git
     ```
 
 2. Build messages:

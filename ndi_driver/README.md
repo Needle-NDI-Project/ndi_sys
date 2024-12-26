@@ -94,7 +94,7 @@ graph TD
 
     ```bash
     cd /path/to/your/ros2_ws/src
-    git clone https://github.com/your-repo/ndi_driver.git
+    git clone https://github.com/Needle-NDI-Project/ndi_sys.git
     ```
 
 2. Install dependencies:
